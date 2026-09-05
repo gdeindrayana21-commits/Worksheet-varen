@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Jadi Pembaca Hebat",
+  "description": "Worksheet digital interaktif dan edukatif untuk anak usia 4–7 tahun belajar membaca huruf, bunyi, suku kata, kata, kalimat, hingga cerita pendek bersama Kiko si Kelinci Pembaca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
